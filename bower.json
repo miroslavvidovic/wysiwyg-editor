@@ -1,0 +1,19 @@
+{
+  "name": "wysiwyg-editor",
+  "homepage": "https://github.com/miroslavvidovic/wysiwyg-editor",
+  "authors": [
+    "Miroslav Vidović <miroslav-vidovic@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
